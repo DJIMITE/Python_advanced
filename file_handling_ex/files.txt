@@ -1,0 +1,11 @@
+.py
+- - - directory_traversal.py
+- - - direcotry_taraveling_def.py
+- - - even_lines.py
+- - - fail_manipulator.py
+- - - line_numbers.py
+.txt
+- - - text.txt
+- - - file.txt
+- - - text.txt
+- - - report.txt
